@@ -1,6 +1,6 @@
-fathir-portfolio/
+fathir-portfolio
 │
-├── index.html
+├── index.html      
 │
-└── assets/
+└── assets
     └── profile.jpg
